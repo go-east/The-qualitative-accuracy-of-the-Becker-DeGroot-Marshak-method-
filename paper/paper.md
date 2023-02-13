@@ -1,5 +1,5 @@
 ---
-title: "the-qualitative-accuracy-of-the-becker-degroot-marshak-method"
+title: "The qualitative accuracy of the Becker-DeGroot-Marshak method"
 subtitle: ""
 author: [Maximilian Späth]
 date: "2023/02/08"
@@ -12,8 +12,8 @@ titlepage-rule-height: 0
 titlepage-background: "./figures/cover.pdf"
 header-left: "\\hspace{1cm}"
 header-right: "Page \\thepage"
-footer-left: "the-qualitative-accuracy-of-the-becker-degroot-marshak-method"
-footer-right: "university-of-potsdam"
+footer-left: "The qualitative accuracy of the Becker-DeGroot-Marshak method"
+footer-right: "University of Potsdam"
 abstract: "The Becker DeGroot Marshak method is widely used to elicit the valuation that an individual assigns to an object. Theoretically, the second-price structure of the method gives individuals the incentive to state their true valuation. Yet, the elicitation methods empirical accuracy is subject to debate. With this paper, I provide a clear verification of the qualitative accuracy of the method. Participants of an incentivized laboratory experiment can sell a virtual object. The value of the object is publicly known and experimentally varied in a between-subjects design. Replicating previous findings on the low quantitative accuracy, I observe a very small share of individuals placing a payoff-optimal stated valuation. However, the analysis shows that the stated valuation increases with the value of the object. This result shows the qualitative accuracy of the BDM method and suggests that the method can be applied in comparative studies."
 ---
 
